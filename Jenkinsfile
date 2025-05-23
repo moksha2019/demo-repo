@@ -1,1 +1,4 @@
+#pipelines demo script
+pipeline {
 
+}
